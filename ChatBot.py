@@ -59,7 +59,7 @@ def chatbot():
     while True:
         user_input = input('You: ')
         response = process_input(user_input)
-        print('Chatty:', response)
+        print('Arsal:', response)
 
 
 if __name__ == '__main__':
